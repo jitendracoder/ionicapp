@@ -1,0 +1,6 @@
+{
+	"appId": "com.example.app",
+	"appName": "ionicapp",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

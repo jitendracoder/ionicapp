@@ -1,0 +1,162 @@
+[
+  {
+      "city_id": 48,
+      "city_name": "Chandigarh",
+      "created_at": "1459941532",
+      "updated_at": "1592480674",
+      "city_center_pin": 160017,
+      "org_active": true,
+      "dest_active": true,
+      "city_hub_id": 1
+  },
+  {
+      "city_id": 57,
+      "city_name": "Gurgaon",
+      "created_at": "1459941532",
+      "updated_at": "1459941532",
+      "city_center_pin": 122001,
+      "org_active": true,
+      "dest_active": true,
+      "city_hub_id": 1
+  },
+  {
+      "city_id": 31,
+      "city_name": "Vasai-Virar",
+      "created_at": "1459941532",
+      "updated_at": "1459941532",
+      "city_center_pin": 401201,
+      "org_active": true,
+      "dest_active": true,
+      "city_hub_id": 3
+  },
+  {
+      "city_id": 16,
+      "city_name": "Thane",
+      "created_at": "1509941539",
+      "updated_at": "1509941539",
+      "city_center_pin": 400601,
+      "org_active": true,
+      "dest_active": true,
+      "city_hub_id": 3
+  },
+  {
+      "city_id": 21,
+      "city_name": "Ghaziabad",
+      "created_at": "1459941532",
+      "updated_at": "1459941532",
+      "city_center_pin": 201001,
+      "org_active": true,
+      "dest_active": true,
+      "city_hub_id": 1
+  },
+  {
+      "city_id": 4,
+      "city_name": "Chennai",
+      "created_at": "1459941532",
+      "updated_at": "1459941532",
+      "city_center_pin": 600001,
+      "org_active": true,
+      "dest_active": true,
+      "city_hub_id": 5
+  },
+  {
+      "city_id": 70,
+      "city_name": "Noida",
+      "created_at": "1459941532",
+      "updated_at": "1459941532",
+      "city_center_pin": 201301,
+      "org_active": true,
+      "dest_active": true,
+      "city_hub_id": 1
+  },
+  {
+      "city_id": 1,
+      "city_name": "Mumbai",
+      "created_at": "1459941532",
+      "updated_at": "1459941532",
+      "city_center_pin": 400001,
+      "org_active": true,
+      "dest_active": true,
+      "city_hub_id": 3
+  },
+  {
+      "city_id": 3,
+      "city_name": "Bangalore",
+      "created_at": "1459941532",
+      "updated_at": "1459941532",
+      "city_center_pin": 560001,
+      "org_active": true,
+      "dest_active": true,
+      "city_hub_id": 4
+  },
+  {
+      "city_id": 5,
+      "city_name": "Hyderabad",
+      "created_at": "1459941532",
+      "updated_at": "1602737287",
+      "city_center_pin": 500001,
+      "org_active": true,
+      "dest_active": true,
+      "city_hub_id": 6
+  },
+  {
+      "city_id": 2,
+      "city_name": "Delhi",
+      "created_at": "1459941531",
+      "updated_at": "1459941531",
+      "city_center_pin": 110001,
+      "org_active": true,
+      "dest_active": true,
+      "city_hub_id": 1
+  },
+  {
+      "city_id": 27,
+      "city_name": "Faridabad",
+      "created_at": "1459941532",
+      "updated_at": "1459941532",
+      "city_center_pin": 121001,
+      "org_active": true,
+      "dest_active": true,
+      "city_hub_id": 1
+  },
+  {
+      "city_id": 37,
+      "city_name": "Navi Mumbai",
+      "created_at": "1509941532",
+      "updated_at": "1509941532",
+      "city_center_pin": 400707,
+      "org_active": true,
+      "dest_active": true,
+      "city_hub_id": 3
+  },
+  {
+      "city_id": 200,
+      "city_name": "Greater Noida",
+      "created_at": "1459941532",
+      "updated_at": "1459941532",
+      "city_center_pin": 201310,
+      "org_active": true,
+      "dest_active": true,
+      "city_hub_id": 1
+  },
+  {
+      "city_id": 8,
+      "city_name": "Kolkata",
+      "created_at": "1459941532",
+      "updated_at": "1592480674",
+      "city_center_pin": 700001,
+      "org_active": true,
+      "dest_active": true,
+      "city_hub_id": 9
+  },
+  {
+      "city_id": 9,
+      "city_name": "Pune",
+      "created_at": "1459941532",
+      "updated_at": "1610621890",
+      "city_center_pin": 411001,
+      "org_active": true,
+      "dest_active": true,
+      "city_hub_id": 3
+  }
+]

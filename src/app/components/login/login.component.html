@@ -1,0 +1,72 @@
+<ion-grid *ngIf="loginCard" class="login_wrapper">
+  <ion-row>
+    <ion-col class="logo_wrapper">
+        <img src="assets/images/sdk_logo.png">
+    </ion-col>
+  </ion-row>
+  <ion-row>
+    <ion-col size="6">
+      <button type="button"  class="btn" (click)="tabToggle('emailID')">  Email Adress</button>
+   </ion-col>
+    <ion-col size="6">
+      <button type="button"  class="btn"  (click)="tabToggle('phoneID')">  Phone Number</button>
+   </ion-col>
+  </ion-row>
+
+<form [formGroup] ='emailForm' *ngIf="emailTab">
+   <ion-grid>
+    <ion-row>
+      <ion-col>
+          <ion-item>
+          <ion-label position="floating">Email</ion-label>
+            <ion-input formControlName="email"></ion-input>
+          </ion-item>
+          <ion-item>
+            <ion-label position="floating">Password</ion-label>
+            <ion-input formControlName="password"></ion-input>
+          </ion-item>
+          <ion-row>
+            <ion-col size="12">
+            <ion-button expand="block" (click)="logInEmail()">Login</ion-button>
+            </ion-col>
+          </ion-row>
+      </ion-col>
+    </ion-row>
+   </ion-grid>
+</form>
+<form [formGroup] ='phoneForm' *ngIf="phoneTab">
+  <ion-grid>
+   <ion-row>
+     <ion-col>
+         <ion-item>
+         <ion-label position="floating">Phone Number</ion-label>
+           <ion-input formControlName="phone"></ion-input>
+
+         </ion-item>
+
+
+
+         <ion-row>
+           <ion-col size="12">
+           <ion-button expand="block" (click)="logInPhone()">Send OTP</ion-button>
+           </ion-col>
+         </ion-row>
+     </ion-col>
+   </ion-row>
+  </ion-grid>
+</form>
+</ion-grid>
+
+<ion-grid *ngIf="otpSection">
+  <ion-row>
+    <ion-col size="12">
+      <ng-otp-input #input_otp_template (onInputChange)="onOtpChange($event)"  [config]="{length:4}"></ng-otp-input>
+    </ion-col>
+    <ion-col>
+      <ion-button expand="block" (click)="verifyOtp()">
+        Verfy OTP
+      </ion-button>
+    </ion-col>
+  </ion-row>
+</ion-grid>
+

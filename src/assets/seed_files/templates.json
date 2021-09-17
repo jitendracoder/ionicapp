@@ -1,0 +1,101 @@
+[
+  {
+      "template_id": 1,
+      "template_name": "1 BHK",
+      "status": true,
+      "created_at": "1502386401",
+      "updated_at": "1502386401",
+      "template_type": "home",
+      "template_hint": "1 Bedroom, Kitchen and Hall"
+  },
+  {
+      "template_id": 2,
+      "template_name": "2 BHK",
+      "status": true,
+      "created_at": "1502386402",
+      "updated_at": "1502386402",
+      "template_type": "home",
+      "template_hint": "2 Bedrooms, Kitchen and Hall"
+  },
+  {
+      "template_id": 3,
+      "template_name": "3 BHK",
+      "status": true,
+      "created_at": "1502386403",
+      "updated_at": "1502386403",
+      "template_type": "home",
+      "template_hint": "3 Bedrooms, Kitchen and Hall"
+  },
+  {
+      "template_id": 4,
+      "template_name": "More than 3 BHK",
+      "status": true,
+      "created_at": "1502386404",
+      "updated_at": "1502386404",
+      "template_type": "home",
+      "template_hint": "More than 3 Bedrooms"
+  },
+  {
+      "template_id": 5,
+      "template_name": "Upto 10 Employees",
+      "status": true,
+      "created_at": "1502386406",
+      "updated_at": "1502386406",
+      "template_type": "office",
+      "template_hint": "10 workstations with Desktops and other loose items"
+  },
+  {
+      "template_id": 6,
+      "template_name": "Upto 20 Employees",
+      "status": true,
+      "created_at": "1502386407",
+      "updated_at": "1502386407",
+      "template_type": "office",
+      "template_hint": "20 workstations with Desktops and other loose items"
+  },
+  {
+      "template_id": 7,
+      "template_name": "More than 20 Employees",
+      "status": true,
+      "created_at": "1502386408",
+      "updated_at": "1502386408",
+      "template_type": "office",
+      "template_hint": "25 workstations with Desktops and other loose items"
+  },
+  {
+      "template_id": 17,
+      "template_name": "I will add individual items",
+      "status": true,
+      "created_at": "1502386400",
+      "updated_at": "1502386400",
+      "template_type": "home",
+      "template_hint": "Advisable when you have few items to move"
+  },
+  {
+      "template_id": 18,
+      "template_name": "I will add individual items",
+      "status": true,
+      "created_at": "1502386405",
+      "updated_at": "1502386405",
+      "template_type": "office",
+      "template_hint": "Advisable when you have few items to move"
+  },
+  {
+      "template_id": 16,
+      "template_name": "Car",
+      "status": true,
+      "created_at": "1502386409",
+      "updated_at": "1606297811",
+      "template_type": "car",
+      "template_hint": "Cars including hatchback, sedan, SUVs"
+  },
+  {
+      "template_id": 15,
+      "template_name": "Bike",
+      "status": false,
+      "created_at": "1502386410",
+      "updated_at": "1606297811",
+      "template_type": "vehicle",
+      "template_hint": "Motorcycles and Scooters"
+  }
+]
